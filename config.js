@@ -1,4 +1,4 @@
-exports.Token = ('');
+exports.Token = ('NTcwMzA1MjE2NjA0Mjc0Njk5.XMBk6w.G8whSJXQVDTIGaCyiCIFvC-L5CU');
 
 exports.PREFIX = 'm!';
 
